@@ -30,7 +30,7 @@ C:\Users\Schule\AppData\Local\Programs\Python\Python311\Lib\site-packages\pyauto
 Öffne "te.comp-training starten". Gehe in einen Tipptrainer. Starte die Python-Datei, dass Schreiben erfolgt Automatisch!
 
 # WICHTIG!
-Umlaute wie Ö, Ä, Ü, ö, ä, ü, aber auch Hochzahlen wie ² und ³ müssen selber geschrieben werden. Wenn eine erscheint warted das Skript 5 Sekunden, in der Zeit fügst du den Buchstaben oder die Hochzahl ein und wartest wieder bis es weiterschreibt.
+Umlaute wie Ö, Ä, Ü, ö, ä, ü, aber auch Hochzahlen wie ² und ³ müssen selber geschrieben werden. Wenn eine erscheint wartet das Skript 5 Sekunden, in der Zeit fügst du den Buchstaben oder die Hochzahl ein und wartest wieder bis es weiterschreibt.
 
 ![Te Comp Tipptrainer](https://github.com/OVRBCK/Te.Comp.Helper/assets/110503465/6b0d323b-b1a4-4c12-ab42-1c18f9a2498a)
 
