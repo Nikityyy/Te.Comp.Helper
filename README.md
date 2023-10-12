@@ -8,8 +8,8 @@ Diese Installation ist sehr sehr aufwendig. Benutzung auf eigene Gefahr!
 Nimm alle extras, PATH, etc. https://www.python.org/ftp/python/3.11.6/python-3.11.6-amd64.exe
 
 ## Installiere PIP
-In CMD: curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
-Danach: python C:\Users\User\Downloads\get-pip.py
+In CMD: "curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py"\
+Danach auch in CMD: "python C:\Users\User\Downloads\get-pip.py" _Deinen Pfad einfügen_
 
 ## Installiere folgende PIPs mit diesem CMD-Befehl in CMD
 pip install pytesseract pywinauto pillow psutil pyautogui pynput
@@ -23,8 +23,8 @@ pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tessera
 
 ## Ändere den Source-Code von PyAutoGui
 ### Mein Pfad:
-C:\Users\Schule\AppData\Local\Programs\Python\Python311\Lib\site-packages\pyautogui
-Von dort löscht du die "__init__.py" Datei und fügst die aus dem Ordner "PyAutoGuiCustom" ein
+C:\Users\Schule\AppData\Local\Programs\Python\Python311\Lib\site-packages\pyautogui\
+<p>Von dort löscht du die '__init__.py' Datei und fügst die aus dem Ordner "PyAutoGuiCustom" ein
 
 # BENUTZUNG
 Öffne "te.comp-training starten". Gehe in einen Tipptrainer. Starte die Python-Datei, dass Schreiben erfolgt Automatisch!
